@@ -1,0 +1,15 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+.bg {
+    background-color: red;
+    height: 300px;
+    ;
+}
+.bg-aktiv {
+    background-color: red;
+    ;
+}
